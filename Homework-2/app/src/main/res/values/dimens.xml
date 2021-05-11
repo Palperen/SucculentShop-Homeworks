@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_product_spacing">8dp</dimen>
+    <dimen name="item_product_detail_spacing">16dp</dimen>
+    <dimen name="item_product_related_width">168dp</dimen>
+    <dimen name="item_product_related_height">186dp</dimen>
+
+
+</resources>
